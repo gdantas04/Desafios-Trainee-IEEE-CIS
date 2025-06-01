@@ -1,0 +1,9 @@
+kaggle==1.7.4.5
+kagglehub==0.3.12
+matplotlib==3.10.0
+numpy==2.0.2
+pandas==2.2.2
+scikit-learn==1.6.1
+seaborn==0.13.2
+sklearn-pandas==2.2.0
+tensorflow==2.19.0
