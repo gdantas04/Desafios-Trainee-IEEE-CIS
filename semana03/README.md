@@ -1,4 +1,4 @@
-# Desafio de Redes Neurais – Treinamento CIS 3º Período
+# Desafio de Redes Neurais – Trainee 3º Período
 
 ## Descrição
 
