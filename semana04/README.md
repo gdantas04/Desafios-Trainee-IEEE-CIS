@@ -8,7 +8,7 @@ Este repositório contém minha submissão para o desafio proposto no 4º perío
 
 ## Estrutura do Desafio
 
-### 1. Fundamentos de CNN
+### Fundamentos de CNN
 
 * **Pré-processamento de imagens**.
 * Utilização de **Dropout**, **Pooling** e **Batch Normalization**.
