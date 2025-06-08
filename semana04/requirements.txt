@@ -1,0 +1,12 @@
+matplotlib==3.10.3
+matplotlib-inline==0.1.7
+numpy==2.2.6
+nvidia-cublas-cu12==12.6.4.1
+nvidia-cuda-cupti-cu12==12.6.80
+nvidia-cuda-nvrtc-cu12==12.6.77
+nvidia-cuda-runtime-cu12==12.6.77
+pandas==2.2.3
+scikit-learn==1.6.1
+seaborn==0.13.2
+torch==2.7.0
+torchvision==0.22.0
